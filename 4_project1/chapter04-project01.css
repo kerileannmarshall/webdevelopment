@@ -1,0 +1,99 @@
+header, footer {
+  color: white;
+  background-color: #1A237E;
+  margin: 0em 4em 0.25em 4em;
+}
+
+body {
+  background-color: #E8EAF6
+}
+
+header h1 {
+  padding: 1.5em 1em 0em 1em;
+  font-style normal;
+  font-weight 400;
+  font-variant: small-caps;
+  font-size: 1.5em;
+  font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+}
+
+header p {
+  font-style italic;
+  font-weight 300;
+  font-variant normal;
+  font-size: 0.9em;
+  padding: 0em 0em 1em 2em;
+}
+
+nav {
+  background-color: #3F51B5;
+  padding: 0.25em 0em 0.25em 1.5em;
+  color: #00B0FF;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+}
+
+a:link {
+  color: #00B0FF;
+  text-decoration: underline;
+  padding: 0.25em;
+}
+
+a:hover {
+  color: white;
+  background-color: #F50057;
+}
+
+main {
+  background-color: white;
+  margin: 1.25em 4em 1.25em 4em;
+  padding: 1em;
+  font-family: "Georgia", "Times New Roman", Tahoma, serif;
+}
+
+section {
+  border-width: thin;
+  border-style: solid;
+  border-color: #7986CB;
+  margin: 1em;
+}
+
+h3 {
+  background-color: #7986CB;
+  color: white;
+  font-stule: normal;
+  font-weight: 400;
+  font-size: 1em;
+  font-family: "Trebuchet MS", "Lucida Grande", Tahoma, sans-serif;
+  text-transform: uppercase;
+  padding: 1.5em 1em 1.5em 1em;
+}
+
+div {
+  padding: 0.25em 1em 0.25em 1em;
+}
+
+figcaption {
+  background-color: #C5CAE9;
+  color: #1A237E;
+  padding: 1em 1em 1em 1em;
+}
+
+time {
+  color: #FF80AB;
+}
+
+hr {
+  border: dashed #C5CAE9;
+}
+
+footer a {
+  color: #00B0FF;
+}
+
+footer p {
+  padding: 1em;
+}
